@@ -6,8 +6,6 @@ The project combines sales data from 2023 and 2024, cleans and transforms the so
 
 ## Dashboard Preview
 
-Add a screenshot of the dashboard here after uploading it to the repository:
-
 <img width="1361" height="726" alt="image" src="https://github.com/user-attachments/assets/57569838-9c9a-4469-8cb1-c3ec63911e15" />
 <img width="1490" height="750" alt="image" src="https://github.com/user-attachments/assets/93cdce32-1a13-43c3-97d1-751069e008d1" />
 
@@ -117,11 +115,7 @@ All slicers are connected to the dashboard's Pivot Tables, allowing the user to 
 ```text
 excel-sales-dashboard/
 ├── README.md
-├── sales-dashboard.xlsx
-├── screenshots/
-│   └── dashboard-overview.png
-└── data/
-    └── source files (optional)
+└── sales-dashboard.xlsx
 ```
 
 ## Data Privacy
@@ -138,4 +132,4 @@ The repository uses public or non-confidential project data. Review the workbook
 
 ## Author
 
-Created by **Fares** as an Excel data analysis and dashboard portfolio project.
+Created by **[Faris Althubyani](https://github.com/FarisAlthubyani)** as an Excel data analysis and dashboard portfolio project.
